@@ -1,0 +1,36 @@
+{
+    "name": "Rafael Santos",
+    "avatar": "https://animeflix.com.br/wp-content/uploads/2024/12/Yuu-Otosaka-1024x660.jpg",
+    "description": "Desenvolvedor Front-end | Criador de conteúdo sobre tecnologia",
+    "links": [
+      {
+        "title": "Meu Portfólio",
+        "url": "#"
+      },
+      {
+        "title": "Blog Pessoal",
+        "url": "#"
+      },
+      {
+        "title": "Loja Virtual",
+        "url": "#"
+      }
+    ],
+    "socialLinks": [
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com",
+        "icon": "linkedin"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com",
+        "icon": "instagram"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://facebook.com",
+        "icon": "facebook"
+      }
+    ]
+  }
